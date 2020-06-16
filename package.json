@@ -1,7 +1,7 @@
 {
-  "name": "clog"
-  ,"license": "UNLICENSED"
-  ,"dependencies" : {}
-  ,"author": "TheHerbin"
-  ,"version": "0.1"
+  "name": "clog",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "author": "TheHerbin",
+  "version": "1.0.0"
 }
